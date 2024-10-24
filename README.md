@@ -1,6 +1,9 @@
-# SOCI 3040<br>Quantitative Research Methods
+SOCI 3040
+
+# Quantitative Research Methods
 
 [John McLevey](https://www.johnmclevey.com)<br>
-Sociology, Memorial University
+Professor, Department of Sociology<br>
+Memorial University
 
 Coming soon...
