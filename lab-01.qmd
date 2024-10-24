@@ -1,0 +1,181 @@
+---
+title: "Telling Stories with Data"
+subtitle: "**Lab 01** | SOCI 3040, Quantitative Research Methods"
+authors:
+  - name: "[John McLevey](https://www.johnmclevey.com)"
+    email: john.mclevey@uwaterloo.ca
+    affiliation: "TBA"  # I've relabled this to show as "Due Date"
+author-title: "AUTHOR & INSTRUCTOR"
+affiliation-title: "DUE DATE"
+date: last-modified
+abstract-title: "LAB OVERVIEW"
+abstract: |
+  In this first lab, you will set up the essential tools that will be used throughout the course and start thinking about what it means to tell stories with data. Specifically, you will: **(1)** download and install the required software, **(2)** create accounts for platforms and services we will use, such as GitHub, **(3)** reflect on key questions from the assigned readings, and finally **(4)** exchange initial thoughts with some of your peers in class.
+toc-title: "**LAB COMPONENTS**"
+keywords:
+  - storytelling
+  - workflow
+  - planning
+  - simulation
+  - representation
+  - bias
+  - fairness
+  - erasure
+  - inclusivity
+  - reproducibility
+monofont: Hack Nerd Font Mono
+bibliography: references.bib
+license: "CC BY-SA"
+execute:
+  echo: true
+---
+
+You should start working on this lab outside of class, ideally a day or two before we meet. Follow the instructions as best as you can and complete as much as possible. If you encounter any difficulties, make note of them. We will address them during the next class session. Be sure to write out your responses to the reflection questions, and be prepared to discuss them in pairs or small groups during class.
+
+::: {.aside}
+|  | Part                                     | Weight   |
+|:---|:-------------------------------------------|:----------|
+| 1  | [Setup](#part-1-setup)                    | 3 points  |
+| 2  | [Reflection questions](#part-2-reflection-questions) | 3 points  |
+| 3  | [Debrief & discussion](#part-3-debrief--discussion)  | (Ungraded) |
+
+: {.striped}
+:::
+
+The content in this course can be challenging for *everyone* when they encounter it for the first time. It's perfectly normal to feel confused or frustrated! 🫤😮‍💨 If you're putting in the effort, [active](https://en.wikipedia.org/wiki/Active_learning) and [experiential learning](https://en.wikipedia.org/wiki/Experiential_learning) will cause some discomfort. These "growing pains" are part of the process. Take a deep breath and move your body if needed. You’ve got this! Remember, I’m here to help you learn, and so are your peers. It's easy to feel isolated, but we're all in this together. 😁
+
+::: {.callout-tip}
+## Lab Learning Objectives
+
+In this lab, you will:
+
+- Download and install the required software (R, RStudio, Quarto, and Git) on a laptop (or tablet, if necessary) that you can bring to class.
+- Create a free GitHub account.
+- Reflect on key questions from the assigned readings.
+- Share your initial thoughts with some of your peers.
+- Compare your peers' perspectives with your own.
+:::
+
+# Part 1: Setup
+
+::: {.callout-important}
+## Section Weight
+This section is worth 3 points in total. Each task is assigned points as shown below.
+:::
+
+To tell stories with data, we need the right tools. Follow the instructions below to install the required software. Make sure to complete each step and include screenshots of the installations in your lab submission.
+
+## Step 1: Install R
+
+::: {.callout-important}
+## Weight
+0.5 points
+:::
+
+1. Go to the [R Project website](https://cran.r-project.org/mirrors.html) and download R for your operating system (Windows, MacOS, or Linux).
+2. Follow the instructions to install R.
+
+Take a screenshot of the successful installation and include it in your submission.
+
+## Step 2: Install RStudio
+
+::: {.callout-important}
+## Weight
+0.5 points
+:::
+
+1. Visit the [RStudio website](https://posit.co/download/rstudio-desktop/) and download the free version of RStudio.
+2. Install RStudio and make sure it opens correctly.
+
+Take a screenshot of RStudio running on your machine.
+
+## Step 3: Install Quarto
+
+::: {.callout-important}
+## Weight
+0.5 points
+:::
+
+1. Go to the [Quarto website](https://quarto.org/docs/get-started/) and download the appropriate version for your operating system.
+2. Install Quarto and check that it integrates with RStudio.
+
+Take a screenshot of the installation success screen or Quarto running in RStudio.
+
+## Step 4: Install Git
+
+::: {.callout-important}
+## Weight
+0.5 points
+:::
+
+1. Download Git from [Git's official website](https://git-scm.com/).
+2. Follow the installation steps for your operating system.
+
+## Step 5: Create a GitHub account
+
+::: {.callout-important}
+## Weight
+1 point
+:::
+
+1. Go to [GitHub](https://github.com/) and create a free account.
+2. After registering, follow the instructions to verify your email and set up a basic GitHub profile.
+
+Take a screenshot of your profile and include your GitHub username.
+
+# Part 2: Reflection Questions
+
+::: {.callout-important}
+## Section Weight
+This section is worth 3 points in total. Each task is assigned points as shown below.
+:::
+
+Now that you have your tools ready, let’s reflect on key ideas from the reading material.
+
+## Storytelling, Planning, & Simulation
+
+::: {.callout-important}
+## Weight
+1 point (each question is worth 0.5 points)
+:::
+
+Based on your reading of Chapter 1 from @alexander2023telling *Telling Stories with Data*, answer the following questions in your own words:
+
+1. Why is it important to have a clear plan before working with data? How does planning help avoid "walking aimlessly," like Alice in Wonderland?
+2. Why is simulating data before working with real data essential for an effective and efficient workflow?
+
+## Ethics and Reproducibility
+
+::: {.callout-important}
+## Weight
+1 point (each question is worth 0.5 points)
+:::
+
+Read "Counting the Countless" by @keyes2019 and "The Kitchen Counter Observatory" by @kieranskitchen and then answer the following questions:
+
+1. What are the ethical implications of telling stories with data?
+2. Why is reproducibility important in quantitative social science and data science? How can you ensure your work is reproducible?
+
+## Critical Thinking
+
+::: {.callout-important}
+## Weight
+1 point
+:::
+
+Reflect on how data can simplify the messy, complex world around us. Based on your reading, explain (in 2-3 sentences) why simplification is necessary but can also lead to limitations when analyzing social data.
+
+# Part 3: Class Debrief & Discussion
+
+::: {.callout-important}
+## Weight
+Expected but ungraded
+:::
+
+In our next class session, we will review key ideas from your journal reflections. Be prepared to discuss your answers in small groups and share any questions you had while completing this lab.
+
+# ✅ Submit Your Lab! {.appendix}
+
+When you are finished, submit your lab by **(coming soon...)**
+
+---

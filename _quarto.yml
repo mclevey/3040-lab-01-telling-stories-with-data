@@ -1,0 +1,21 @@
+project:
+  type: manuscript
+  output-dir: docs
+
+manuscript:
+  article: lab-01.qmd
+
+format:
+  html:
+    comments:
+      hypothesis: false
+  # docx: default
+  # pdf: default
+
+execute:
+  echo: true
+  eval: true
+  freeze: auto
+
+
+
